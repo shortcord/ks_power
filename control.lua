@@ -7,7 +7,7 @@ require "scripts.diesel-gen"
 
 
 script.on_configuration_changed(function(data)
-  if data.mod_changes ~= nil and data.mod_changes["KS_Power"] ~= nil and data.mod_changes["KS_Power"].old_version == nil then
+    if data.mod_changes ~= nil and data.mod_changes["KS_Power"] ~= nil and data.mod_changes["KS_Power"].old_version == nil then
     local s = game.surfaces["nauvis"]
     find_boilers(s)
     find_turbines(s)
