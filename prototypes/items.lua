@@ -1,3 +1,3 @@
 require("item.diesel-generator")
+require("item.oil-burner")
 require("item.wind-turbine")
-require("item.burner-generator")

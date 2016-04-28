@@ -7,7 +7,6 @@ data:extend({
 		energy_required = 5,
 		ingredients = {
 			{type="fluid", name="petroleum-gas", amount=4},
-			--{type="fluid", name="light-oil", amount=2}
 		},
 		results = {
 			{type="fluid", name="diesel-fuel", amount=2}
