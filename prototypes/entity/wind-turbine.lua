@@ -19,9 +19,8 @@ data:extend({
 		selection_box = {{-0.8, -0.8}, {0.8, 0.8}},
 		drawing_box = {{-0.5, -3}, {3.2, 0.5}},
 		fluid_box = {
-			base_area = 1,			
+			base_area = 1,
 			pipe_connections = {}
-			
 		},
 		energy_source = {
 			type = "electric",
@@ -43,7 +42,7 @@ data:extend({
 			line_length = 5,
 			shift = {1.7,-1.4},
 			run_mode = "backward"
-		},		
+		},
 		smoke = {},
 		working_sound = {
 			sound =	{
