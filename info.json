@@ -1,8 +1,8 @@
 {
-  "name": "KS_Power",
-  "version": "0.2.0",
-  "title": "KS Power",
-  "author": "Klonan + Short Cord",
-  "homepage": "https://github.com/teh-random-name/ks_power",
-  "description": "Adds a range of different power producing options"
+	"name": "KS_Power",
+	"version": "0.2.0",
+	"title": "KS Power",
+	"author": "Klonan + Short Cord",
+	"homepage": "https://github.com/teh-random-name/ks_power",
+	"description": "Adds a range of different power producing options"
 }
